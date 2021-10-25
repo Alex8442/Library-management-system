@@ -1,4 +1,4 @@
-# Buecherei-Verwaltungs-System
+# Buecherei Verwaltungs System
 
 Empfohlene Spezifikation:
 -Windows 10 
