@@ -1,4 +1,4 @@
-# Library-management-system
+# Buecherei-Verwaltungs-System
 
 Empfohlene Spezifikation:
 -Windows 10 
